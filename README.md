@@ -1,2 +1,3 @@
 # data-science
-Repo for the John Hopkins Data Science course
+This repo contains all of the code and resources required for the John Hopkins Data Science specialistion
+on coursera.
